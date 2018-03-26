@@ -1,11 +1,10 @@
-<style>
-
 /********** Base styles **********/
 * {
   box-sizing: border-box;
 }
 h1 {
   margin-bottom: 15px;
+  font-size: 50px;
 }
 
 p {
@@ -111,5 +110,3 @@ p {
     width: 100%;
   }
 }
-
-</style>
